@@ -1,3 +1,6 @@
 [submodule "dockerRaspberryPIPack"]
 	path = dockerRaspberryPIPack
 	url = https://github.com/azarashin/dockerRaspberryPIPack.git
+[submodule "dockerHackathonPack"]
+	path = dockerHackathonPack
+	url = https://github.com/azarashin/dockerHackathonPack.git
